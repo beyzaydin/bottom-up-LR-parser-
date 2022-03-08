@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class hw2_beyza_aydin {
+public class LrParser {
     static String arr = "i" + "+" + "*" + "(" + ")" + "$" + "E" + "T" + "F";
     static String[][] lrParseTable =
             {
